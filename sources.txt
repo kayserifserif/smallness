@@ -1,0 +1,2 @@
+https://github.com/sherlock28/list-verb-english/blob/main/src/data/listOfVerbs.js
+https://github.com/Franceskynov/node-english-irregular-verbs/blob/master/list.json
