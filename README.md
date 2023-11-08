@@ -30,3 +30,5 @@ Others:
 - ~~"to be always already #gerund#"~~
 - ~~"the #noun# is a prayer"~~
 - ~~"something within the #noun#"~~
+- ~~"#gerund# as an answer"~~
+- ~~"the prayer of #gerund#", "#gerund# as a prayer",~~
